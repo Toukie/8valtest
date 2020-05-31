@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "v2 Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "v3 Oppression by corporations is more of a concern than oppression by governments.",
         "effect": {
             "FRL": 100000,
             "dipl": 0,
